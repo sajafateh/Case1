@@ -47,4 +47,4 @@ The Builder pattern is applied to construct the character incrementally, avoidin
 - Shahed Mahmoud  
   - Implementation (Java Code)  
   - Traditional Implementation (without Builder)  
-  - UML Diagram (without Builder Pattern)  
+  - UML Diagram 
